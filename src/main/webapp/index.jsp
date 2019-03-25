@@ -7,6 +7,6 @@
         <title></title>
     </head>
     <body>
-        <h3 class="message"><%=HelloWorld.getMessage()%></h3>
+        <h3 class="message"><%=HelloDevOps.getMessage()%></h3>
     </body>
 </html>
